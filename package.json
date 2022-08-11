@@ -2,9 +2,9 @@
   "name": "webscrap",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
