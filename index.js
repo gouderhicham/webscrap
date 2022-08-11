@@ -10,7 +10,7 @@ function SendSms(me) {
       let msg = message.body;
     })
     .done();
-}
+  }
 function Once(price) {
   if (price < 10) {
     SendSms("price changed")
